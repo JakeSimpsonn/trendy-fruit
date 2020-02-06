@@ -16,3 +16,35 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+.melon {
+  font-family: "Rammetto One", cursive;
+}
+
+.star {
+  font-family: "Gravitas One", cursive;
+}
+
+.persim {
+  font-family: Comfortaa, cursive;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.bcolourm {
+  background-color: #e97065;
+}
+
+.bcolours {
+  background-color: #fbd25e;
+}
+
+.bcolourp {
+  background-color: #e86033;
+}
